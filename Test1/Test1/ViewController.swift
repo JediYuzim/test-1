@@ -13,6 +13,15 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print ("Tuples")
+        print ("Tuples")
+
+        print ("Tuples")
+
+        print ("Tuples")
+        print ("Tuples")
+
+        print ("Tuples")
+
     }
 
 
